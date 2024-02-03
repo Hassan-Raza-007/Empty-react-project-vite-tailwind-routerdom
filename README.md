@@ -1,1 +1,2 @@
-# Empty-react-project-vite-tailwind-routerdom
+# Empty-react-project-vite-tailwind-routerdom\
+This Project is empty to avoid multiple creating project and wasting time....
